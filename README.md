@@ -5,12 +5,14 @@
 <br>
 
 ## 책 인증
+<img src="https://user-images.githubusercontent.com/77827092/212214480-3957a7e5-1323-48c6-9b3e-712beef0f07b.jpg" width="400">
+#코딩 #개발자 #노마드북클럽 #노개북
 
-
+<br>
 <br>
 
 ## 1 주차
-+ [Assignment #01 (책 인증)](./README.md)
++ [Assignment #01 (책 인증)](./README.md#책-인증)
 + [Assignment #02 (에피소드 1 ~ 에피소드 5)](./CSS/Reset-CSS.md)
 + [Assignment #03 (에피소드 6 ~ 에피소드 10)](./CSS/Font-Smoothing.md)
 + [Assignment #04 (복습 및 Quiz)](./CSS/Grid-System.md)
