@@ -14,7 +14,7 @@
 + [Assignment #01 (책 인증)](./README.md#책-인증)
 + [Assignment #02 (에피소드 1 ~ 에피소드 5)](./02.md)
 + [Assignment #03 (에피소드 6 ~ 에피소드 10)](./03.md)
-+ [Assignment #04 (복습 및 Quiz)](./04.md)
++ Assignment #04 (복습 및 Quiz)
 + [Assignment #05 (에피소드 11 ~ 에피소드 15)](./05.md)
 + [Assignment #06(에피소드 16 ~ 에피소드 21)](./06.md)
 + [Assignment #07 (에피소드 22 ~ 에피소드 25)](./07.md)
@@ -22,10 +22,10 @@
 <br>
 
 ## 2 주차
-+ [Assignment #08 (복습 및 Quiz)](./08.md)
++ Assignment #08 (복습 및 Quiz)
 + [Assignment #09 (에피소드 26 ~ 에피소드 29)](./09.md)
 + [Assignment #10 (에피소드 30 ~ 에피소드 34)](./10.md)
-+ [Assignment #11 (복습 및 Mission)](./11.md)
++ Assignment #11 (복습 및 Mission)
 + [Assignment #12 (에피소드 35 ~ 에피소드 38)](./12.md)
 + [Assignment #13(에피소드 39 ~ 에피소드 45)](./13.md)
-+ [Assignment #14 (Final Mission)](./14.md)
++ Assignment #14 (Final Mission)
