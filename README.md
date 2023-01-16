@@ -12,7 +12,7 @@
 
 ## 1 주차
 + [Assignment #01 (책 인증)](./README.md#책-인증)
-+ [Assignment #02 (에피소드 1 ~ 에피소드 5)](./CSS/Reset-CSS.md)
++ [Assignment #02 (에피소드 1 ~ 에피소드 5)](./02.md)
 + [Assignment #03 (에피소드 6 ~ 에피소드 10)](./CSS/Font-Smoothing.md)
 + [Assignment #04 (복습 및 Quiz)](./CSS/Grid-System.md)
 + [Assignment #05 (에피소드 11 ~ 에피소드 15)](./CSS/Flex.md)
