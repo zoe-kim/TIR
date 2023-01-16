@@ -1,14 +1,13 @@
 # TIR
     📚 Today I Read
     노마드 코더의 'IT 5분 잡학사전'을 읽고 기록하는 노마드 개발자 북클럽(aka. 노개북) 챌린지에 참여했습니다.
+    #코딩 #개발자 #노마드북클럽 #노개북
     
 <br>
 
 ## 책 인증
 <img src="https://user-images.githubusercontent.com/77827092/212214480-3957a7e5-1323-48c6-9b3e-712beef0f07b.jpg" width="400">
-#코딩 #개발자 #노마드북클럽 #노개북
 
-<br>
 <br>
 
 ## 1 주차
